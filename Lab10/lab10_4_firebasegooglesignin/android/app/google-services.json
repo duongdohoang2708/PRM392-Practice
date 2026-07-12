@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "532692727175",
+    "project_id": "lab10-firebase-auth",
+    "storage_bucket": "lab10-firebase-auth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532692727175:android:4fbc0c1e173211b9c34f22",
+        "android_client_info": {
+          "package_name": "com.example.lab10_4_firebasegooglesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532692727175-bi2dcjt0i42f9ke7v0mau9rpka9utn4o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lab10_4_firebasegooglesignin",
+            "certificate_hash": "044521a5503f7ddca012a6655f57e4b5f1c32a24"
+          }
+        },
+        {
+          "client_id": "532692727175-or51pqm91das7ao9r9ek0v3g42ta824r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU24BoLadMugl6Vj5Db_cVPfBpSHiK7ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532692727175-or51pqm91das7ao9r9ek0v3g42ta824r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
